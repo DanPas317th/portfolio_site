@@ -5,7 +5,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 150px;
+  padding-top: 100px;
+  padding-bottom: 150px;
   /* height: 325px; */
-  color: #00499c;
+  color: #FFFFFF;
 }
